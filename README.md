@@ -28,4 +28,6 @@ Wamp, xamp, etc
 *	**Hasnain Abid – email2hasnain@gmail.com - Lead Developer – Abasyn University**
 *	**Arslan Nazim – arslannazim1234@gmail.com - Lead Developer – Abasyn University**
 
-
+## License
+ Thingshub is registered under MIT license
+ has.mit-license.org
