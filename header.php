@@ -5,7 +5,7 @@
 	
 $current=basename($_SERVER['PHP_SELF']);
 	function encrypt($string) {
-	$key="usmannnn";
+	$key="things";
 	  $result = '';
   for($i=0; $i<strlen($string); $i++) {
     $char = substr($string, $i, 1);
@@ -18,7 +18,7 @@ $current=basename($_SERVER['PHP_SELF']);
 }
 
 function decrypt($string) {
-	$key="usmannnn";
+	$key="things";
 	  $result = '';
   $string = base64_decode($string);
 
